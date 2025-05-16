@@ -132,7 +132,7 @@ export const products: Product[] = [
     name: "Premium 1kW Solar Home System",
     category: "solar-home-systems",
     description: "Complete solar home system with panels, battery, and inverter for residential power needs.",
-    image: "premium 1kW Solar Home System.jpg",
+    image: "Premium 1kW Solar Home System.jpg",
     features: [
       "1kW solar array",
       "Lithium battery storage",
